@@ -1,0 +1,16 @@
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.exe
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.deps.json
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.runtimeconfig.json
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.runtimeconfig.dev.json
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.dll
+C:\new project\CSharp09\bin\Debug\net5.0\ref\CSharp09.dll
+C:\new project\CSharp09\bin\Debug\net5.0\CSharp09.pdb
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.GeneratedMSBuildEditorConfig.editorconfig
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.AssemblyInfoInputs.cache
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.AssemblyInfo.cs
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.csproj.CoreCompileInputs.cache
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.dll
+C:\new project\CSharp09\obj\Debug\net5.0\ref\CSharp09.dll
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.pdb
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.genruntimeconfig.cache
+C:\new project\CSharp09\obj\Debug\net5.0\CSharp09.csproj.AssemblyReference.cache
